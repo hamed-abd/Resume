@@ -6,10 +6,10 @@
 <div align="center">
 <table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #333333; ; color:#FFFFFF" bgcolor="#000000">
 	<tr>
-		<td width="200" height="200" style="padding:1px; border:1px solid #000000; " dir="rtl" bgcolor="#000000">
+		<td width="200" height="200" style="border-bottom:1px solid #333333; padding:0px; border-left-width:1px; border-right-width:1px; border-top-width:1px" dir="rtl" bgcolor="#000000">
 		<p align="center">
 		<img border="0" src="Hamed.jpeg" width="200" height="200">
-		<td align="center" width="500" height="200" style="padding:1px; border:1px solid #000000; " dir="rtl" bgcolor="#000000">
+		<td align="center" width="500" height="200" style="border-bottom:1px solid #333333; padding:0px; border-left-width:1px; border-right-width:1px; border-top-width:1px" dir="rtl" bgcolor="#000000">
 		<p align="center">
 		<p><b><font color="#FF9900" size="6" face="Times New Roman">حامد 
 		عبدالرزاق</font></b></p>
