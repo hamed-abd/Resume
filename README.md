@@ -9,7 +9,7 @@
 		<td width="200" height="200" style="padding:1px; " align="center" bgcolor="#000000">
 		<p align="center">
 		<img border="0" src="Hamed.jpeg" width="200" height="200">
-		<td align="center" width="500" height="200" style="padding:1px; " bgcolor="#000000">
+		<td align="center" width="500" height="200" style="border:1px solid #000000; padding:1px; " bgcolor="#000000">
 		<p align="center">
 		<p><b><font color="#FF9900" size="6" face="Times New Roman">حامد 
 		عبدالرزاق</font></b></p>
@@ -28,7 +28,6 @@
 		Facebook<br>Skype<br>Duo<br>Zoom
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
-		<blockquote>
 			<font color="#FF9900"><b>سوابق تحصيلي</b></font><dir dir="rtl" type="square">
 				<li>فارغ التحصيل کارشناسي مديريت بازرگاني</li>
 				<li>دانشجوي مهندسي نرم افزار گريش نرم افزار</li>
@@ -38,14 +37,12 @@
 				<li>داري مدرک (Professional Solution Developer (MCSD</li>
 				<li>داري مدرک MOUS</li>
 			</dir>
-		</blockquote>
 		</td>
-		<td rowspan="4" width="200" align="center" valign="top" style="padding:1px; " bgcolor="#000000">
+		<td rowspan="4" width="200" align="center" valign="top" style="border:1px solid #000000; padding:1px; " bgcolor="#000000">
 		<p align="center"><font color="#FF9900"><b>مهارت ها<br></b></font><br>تيم سازي تخصصي<br>مديريت و رهبري<br>تحليل نرم افزار<br>طراحي فريند<br>طراحي Test Case<br>تست نرم افزار<br>Microsoft SQL Server<br>T-SQL<br>Crystal Report<br>Stimulsoft<br>MS-Office Collection<br>Adobe Photoshop<br>Corel Draw<br>Ulead Video Studio<br>
 		<br>Can Grow
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
-		<blockquote>
 			<font color="#FF9900"><b>سوابق شغلي</b></font><ul dir="rtl" type="square">
 				<li>فعاليت در زمينه طراحي و گرافيک تبليغاتي به مدت 2 سال از سال 1379</li>
 				<li>کارشناس تحليل و توسعه در اداره کل امور پشتيباني سازمان مديريت و 
@@ -57,12 +54,10 @@
 				<li>مدير ي تي و مشاور مديرعامل در حوزه ي تي در هلدينگ همساز و شرکت 
 			گردشگري سلامت آباديس سلامت همساز از سال 1398 تا کنون</li>
 			</ul>
-		</blockquote>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
-		<blockquote>
 			<font color="#FF9900"><b>توانايي هاي فني</b></font><ul dir="rtl" type="square">
 				<li>کارشناس ارشد پشتيباني نرم افزارهاي بيمارستاني HIS با 15 سال 
 			سابقه</li>
@@ -74,18 +69,15 @@
 				<li>مسلط به نرم افزار هاي گرافيکي Adobe Collections and Corel Draw)</li>
 				<li>مسلط به Active Directory و Windows Server</li>
 			</ul>
-		</blockquote>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
-		<blockquote>
 			<font color="#FF9900"><b>توانايي هاي فردي</b></font><ul dir="rtl" type="square">
 				<li>مسلط به زبان انگليسي</li>
 				<li>مسلط به سخت افزار</li>
 				<li>توانايي تحليل کد ، آناليز و تست نرم افزار</li>
 				<li>مديريت تيم هاي نرم افزاري و پياده سازي پروژه هاي گروهي</li>
 			</ul>
-		</blockquote>
 		</td>
 	</tr>
