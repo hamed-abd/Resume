@@ -26,7 +26,6 @@
 		<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">Whatsapp<br>Telegram</a><br>
 		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">Linkdin</a><br>	
 		Facebook<br>Skype<br>Duo<br>Zoom
-		
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; ">
 		<font color="#FF9900">
