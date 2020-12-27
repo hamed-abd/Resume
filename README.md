@@ -1,5 +1,3 @@
-<html dir="rtl">
-
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="fa">
@@ -8,10 +6,10 @@
 <div align="center">
 <table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #808080; background-color:#000000" bgcolor="#000000">
 	<tr>
-		<td width="200" height="200" style="padding:1px; border:1px solid #333333; ">
+		<td width="200" height="200" style="padding:1px; border:1px solid #333333; " align="center" bgcolor="#000000">
 		<p align="center">
 		<img border="0" src="Hamed.jpeg" width="200" height="200">
-		<td align="center" width="500" height="200" style="padding:1px; border:1px solid #333333; ">
+		<td align="center" width="500" height="200" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 		<p align="center">
 		<p><b><font color="#FF9900" size="6" face="Times New Roman">حامد 
 		عبدالرزاق</font></b></p>
@@ -19,7 +17,7 @@
 		متولد : 1359/10/08<br>
 		وضعيت تأهل : متأهل<br>
 		وضعيت سربازي : خريد خدمت<br>
-		<td width="200" align="center" style="padding:1px; border:1px solid #333333; " height="200">
+		<td width="200" align="center" style="padding:1px; border:1px solid #333333; " height="200" bgcolor="#000000">
 		<p align="center">
 		<b><font Size=2>Contact me</font></b><br>
 		<font size="1">
@@ -29,7 +27,7 @@
 		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">Linkdin</a><br>	
 		Facebook<br>Skype<br>Duo<br>Zoom
 	<tr>
-		<td colspan="2" style="padding:1px; border:1px solid #333333; ">
+		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 		<font color="#FF9900">
 		<b>سوابق تحصيلي</b></font><ul>
 			<li>فارغ التحصيل کارشناسي مديريت بازرگاني</li>
@@ -41,7 +39,7 @@
 			<li>داري مدرک MOUS</li>
 		</ul>
 		</td>
-		<td rowspan="4" width="200" align="center" valign="top" style="padding:1px; border:1px solid #333333; ">
+		<td rowspan="4" width="200" align="center" valign="top" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 		<p align="center"><font color="#FF9900"><b>مهارت ها<br></b></font><br>
 		تيم سازي تخصصي<br>
 		مديريت و رهبري<br>
@@ -59,7 +57,7 @@
 		Ulead Video Studio<br><br>
 		Can Grow
 	<tr>
-		<td colspan="2" style="padding:1px; border:1px solid #333333; ">
+		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 		<font color="#FF9900">
 		<b>سوابق شغلي</b></font><ul>
 			<li>فعاليت در زمينه طراحي و گرافيک تبليغاتي به مدت 2 سال از سال 1379</li>
@@ -75,7 +73,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2" style="padding:1px; border:1px solid #333333; ">
+		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 		<font color="#FF9900">
 		<b>توانايي هاي فني</b></font><ul>
 			<li>کارشناس ارشد پشتيباني نرم افزارهاي بيمارستاني HIS با 15 سال 
@@ -91,7 +89,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2" style="padding:1px; border:1px solid #333333; ">
+		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 		<font color="#FF9900">
 		<b>توانايي هاي فردي</b></font><ul>
 			<li>مسلط به زبان انگليسي</li>
