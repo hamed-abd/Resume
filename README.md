@@ -2,7 +2,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="fa">
 </head>
-<body link="#FF9900" vlink="#FF9900" alink="#FF9900" text="#FFFFFF">
+<body link="#FF9900" vlink="#FF9900" alink="#FF9900" text="#FFFFFF" bgcolor="#000000">
 <div align="center">
 <table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #333333; ; color:#FFFFFF" bgcolor="#000000">
 	<tr>
