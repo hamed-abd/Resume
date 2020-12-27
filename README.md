@@ -2,7 +2,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="fa">
 </head>
-<body link="#FF9900" vlink="#FF9900" alink="#FF9900" text="#FFFFFF" bgcolor="#000000">
+<body link="#FF9900" vlink="#FF9900" alink="#FF9900" text="#FFFFFF" bgcolor="#000000" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" style="font-family: Tahoma; color: #FFFFFF">
 <div align="center">
 <table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #808080; background-color:#000000" bgcolor="#000000">
 	<tr>
@@ -29,7 +29,7 @@
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 		<font color="#FF9900">
-		<b>سوابق تحصيلي</b></font><ul>
+		<b>سوابق تحصيلي</b></font><dir dir="rtl" type="square">
 			<li>فارغ التحصيل کارشناسي مديريت بازرگاني</li>
 			<li>دانشجوي مهندسي نرم افزار گريش نرم افزار</li>
 			<li>داري مدرک Professional Scrum Master</li>
@@ -37,29 +37,15 @@
 			<li>داري مدرک (Professional DataBase Administrator (MCDA</li>
 			<li>داري مدرک (Professional Solution Developer (MCSD</li>
 			<li>داري مدرک MOUS</li>
-		</ul>
+		</dir>
 		</td>
 		<td rowspan="4" width="200" align="center" valign="top" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
-		<p align="center"><font color="#FF9900"><b>مهارت ها<br></b></font><br>
-		تيم سازي تخصصي<br>
-		مديريت و رهبري<br>
-		تحليل نرم افزار<br>
-		طراحي فريند<br>
-		طراحي Test Case<br>
-		تست نرم افزار<br>
-		Microsoft SQL Server<br>
-		T-SQL<br>
-		Crystal Report<br>
-		Stimulsoft<br>
-		MS-Office Collection<br>
-		Adobe Photoshop<br>
-		Corel Draw<br>
-		Ulead Video Studio<br><br>
-		Can Grow
+		<p align="center"><font color="#FF9900"><b>مهارت ها<br></b></font><br>تيم سازي تخصصي<br>مديريت و رهبري<br>تحليل نرم افزار<br>طراحي فريند<br>طراحي Test Case<br>تست نرم افزار<br>Microsoft SQL Server<br>T-SQL<br>Crystal Report<br>Stimulsoft<br>MS-Office Collection<br>Adobe Photoshop<br>Corel Draw<br>Ulead Video Studio<br>
+		<br>Can Grow
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 		<font color="#FF9900">
-		<b>سوابق شغلي</b></font><ul>
+		<b>سوابق شغلي</b></font><ul dir="rtl" type="square">
 			<li>فعاليت در زمينه طراحي و گرافيک تبليغاتي به مدت 2 سال از سال 1379</li>
 			<li>کارشناس تحليل و توسعه در اداره کل امور پشتيباني سازمان مديريت و 
 			برنامه ريزي کشور به مدت 4 سال از سال 1381</li>
@@ -75,7 +61,7 @@
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 		<font color="#FF9900">
-		<b>توانايي هاي فني</b></font><ul>
+		<b>توانايي هاي فني</b></font><ul dir="rtl" type="square">
 			<li>کارشناس ارشد پشتيباني نرم افزارهاي بيمارستاني HIS با 15 سال 
 			سابقه</li>
 			<li>کارشناس تحليل و توسعه نرم افزارهاي حوزه سلامت با 19 سال سابقه</li>
@@ -91,7 +77,7 @@
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 		<font color="#FF9900">
-		<b>توانايي هاي فردي</b></font><ul>
+		<b>توانايي هاي فردي</b></font><ul dir="rtl" type="square">
 			<li>مسلط به زبان انگليسي</li>
 			<li>مسلط به سخت افزار</li>
 			<li>توانايي تحليل کد ، آناليز و تست نرم افزار</li>
