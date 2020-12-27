@@ -1,4 +1,3 @@
-
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="fa">
@@ -7,10 +6,10 @@
 <div align="center">
 <table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #808080; background-color:#000000" bgcolor="#000000">
 	<tr>
-		<td width="200" height="200" style="border:0 solid #000000; padding:0px; " align="center" bgcolor="#000000">
+		<td width="200" height="200" style="border:0px solid #000000; padding:0px" align="center" bgcolor="#000000">
 		<p align="center">
 		<img border="0" src="Hamed.jpeg" width="200" height="200">
-		<td align="center" width="500" height="200" style="border:1px solid #000000; padding:1px; " bgcolor="#000000">
+		<td align="center" width="500" height="200" style="border:0px solid #000000; padding:0px; " bgcolor="#000000">
 		<p align="center">
 		<p><b><font color="#FF9900" size="7" face="Times New Roman">حامد 
 		عبدالرزاق</font></b></p>
@@ -18,20 +17,19 @@
 		متولد : 1359/10/08<br>
 		وضعيت تأهل : متأهل<br>
 		وضعيت سربازي : خريد خدمت<br>
-		<td width="200" align="center" style="padding:1px; border:1px solid #333333; " height="200" bgcolor="#000000">
-		<p align="center">
-		<b><font Size=2>Contact me</font></b><br>
-		<font size="2">
-		<a href="mailto:hamed.abd@gmail.com" style="text-decoration: none">Gmail</a><br>
-		<a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">Yahoo</a><br>
-		<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">Whatsapp<br>Telegram</a><br>
-		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">Linkdin</a><br>	
-		Facebook<br>Skype<br>Duo<br>Zoom
+		<td width="200" align="left" style="padding:1px; border:1px solid #333333; " height="200" bgcolor="#000000">
+		<blockquote>
+			<p><b><font Size=2>Contact me</font></b><br><font size="2">
+			<a href="mailto:hamed.abd@gmail.com" style="text-decoration: none">Gmail</a><br>
+			<a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">Yahoo</a><br>
+			<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">Whatsapp<br>Telegram</a><br>
+			<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">Linkdin</a><br>Facebook<br>Skype<br>Duo<br>Zoom
+		</blockquote>
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 			<font color="#FF9900"><b>سوابق تحصيلي</b></font><dir dir="rtl" >
 				<li>فارغ التحصيل کارشناسي مديريت بازرگاني</li>
-				<li>دانشجوي مهندسي نرم افزار گريش نرم افزار</li>
+				<li>دانشجوي مهندسي نرم افزار گرايش نرم افزار</li>
 				<li>داري مدرک Professional Scrum Master</li>
 				<li>داري مدرک Master CIW Designer</li>
 				<li>داري مدرک (Professional DataBase Administrator (MCDA</li>
@@ -49,10 +47,10 @@
 				<li>کارشناس تحليل و توسعه در اداره کل امور پشتيباني سازمان مديريت و 
 			برنامه ريزي کشور به مدت 4 سال از سال 1381</li>
 				<li>کارشناس پشتيباني ، تحليل و توسعه نرم افزارهاي حوزه بهداشت و 
-			سلامت از سال 1385 تا کنون</li>
+			سلامت در شرکت اطلاع رسانی پیوند داده ها از سال 1385 تا کنون</li>
 				<li>مدير روابط عمومي و عضوهيات مديره شرکت فرهن هنري شيدي عشق به مدت 
 			3 سال از سال 1394</li>
-				<li>مدير ي تي و مشاور مديرعامل در حوزه ي تي در هلدينگ همساز و شرکت 
+				<li>مدير آي تي در هلدينگ همساز و شرکت 
 			گردشگري سلامت آباديس سلامت همساز از سال 1398 تا کنون</li>
 			</ul>
 		</td>
