@@ -4,14 +4,15 @@
 </head>
 <body link="#FF9900" vlink="#FF9900" alink="#FF9900" text="#FFFFFF" bgcolor="#000000">
 <div align="center">
-<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #808080">
+<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #808080" bgcolor="#000000">
 	<tr>
 		<td width="200" height="200" style="padding:1px; border:1px solid #333333; ">
 		<p align="center">
 		<img border="0" src="Hamed.jpeg" width="200" height="200">
 		<td align="center" width="500" height="200" style="padding:1px; border:1px solid #333333; ">
 		<p align="center">
-		<p><b><font color="#FFFF00" size="6" face="Times New Roman">حامد عبدالرزاق</font></b></p>
+		<p><b><font color="#FFFF00" size="6" face="Times New Roman">حامد 
+		عبدالرزاق</font></b></p>
 		<p><font color="#FFFF00">Hamed.abd@Gmail.com</font></p>
 		متولد : 1359/10/08<br>
 		وضعيت تأهل : متأهل<br>
@@ -20,9 +21,12 @@
 		<p align="center">
 		<b><font color="#FFFF00">Contact me</font></b><br>
 		<a href="mailto:hamed.abd@gmail.com" style="text-decoration: none">Gmail</a><br>
-		<a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">Yahoo</a><br>
-		<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">Whatsapp<br>Telegram</a><br>
-		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">Linkdin</a><br>	
+		<a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">
+		Yahoo</a><br>
+		<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">
+		Whatsapp<br>Telegram</a><br>
+		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">
+		Linkdin</a><br>	
 		Facebook<br>Skype<br>Duo<br>Zoom
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; ">
@@ -59,10 +63,14 @@
 		<font color="#FFFF00">
 		<b>سوابق شغلي</b></font><ul>
 			<li>فعاليت در زمينه طراحي و گرافيک تبليغاتي به مدت 2 سال از سال 1379</li>
-			<li>کارشناس تحليل و توسعه در اداره کل امور پشتيباني سازمان مديريت و برنامه ريزي کشور به مدت 4 سال از سال 1381</li>
-			<li>کارشناس پشتيباني ، تحليل و توسعه نرم افزارهاي حوزه بهداشت و سلامت از سال 1385 تا کنون</li>
-			<li>مدير روابط عمومي و عضوهيات مديره شرکت فرهن هنري شيدي عشق به مدت 3 سال از سال 1394</li>
-			<li>مدير ي تي و مشاور مديرعامل در حوزه ي تي در هلدينگ همساز و شرکت گردشگري سلامت آباديس سلامت همساز از سال 1398 تا کنون</li>
+			<li>کارشناس تحليل و توسعه در اداره کل امور پشتيباني سازمان مديريت و 
+			برنامه ريزي کشور به مدت 4 سال از سال 1381</li>
+			<li>کارشناس پشتيباني ، تحليل و توسعه نرم افزارهاي حوزه بهداشت و 
+			سلامت از سال 1385 تا کنون</li>
+			<li>مدير روابط عمومي و عضوهيات مديره شرکت فرهن هنري شيدي عشق به مدت 
+			3 سال از سال 1394</li>
+			<li>مدير ي تي و مشاور مديرعامل در حوزه ي تي در هلدينگ همساز و شرکت 
+			گردشگري سلامت آباديس سلامت همساز از سال 1398 تا کنون</li>
 		</ul>
 		</td>
 	</tr>
@@ -70,9 +78,11 @@
 		<td colspan="2" style="padding:1px; border:1px solid #333333; ">
 		<font color="#FFFF00">
 		<b>توانايي هاي فني</b></font><ul>
-			<li>کارشناس ارشد پشتيباني نرم افزارهاي بيمارستاني HIS با 15 سال سابقه</li>
+			<li>کارشناس ارشد پشتيباني نرم افزارهاي بيمارستاني HIS با 15 سال 
+			سابقه</li>
 			<li>کارشناس تحليل و توسعه نرم افزارهاي حوزه سلامت با 19 سال سابقه</li>
-			<li>مسلط به SQL Server ، کدنويسي Server Side و مديريت بانک هاي اطلاعاتي</li>
+			<li>مسلط به SQL Server ، کدنويسي Server Side و مديريت بانک هاي 
+			اطلاعاتي</li>
 			<li>مسلط به SAP Crystal Reports</li>
 			<li>مسلط به Stimulsoft Reports</li>
 			<li>مسلط به نرم افزار هاي گرافيکي Adobe Collections and Corel Draw)</li>
