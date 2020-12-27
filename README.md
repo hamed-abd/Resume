@@ -4,7 +4,7 @@
 </head>
 <body link="#FF9900" vlink="#FF9900" alink="#FF9900" text="#FFFFFF">
 <div align="center">
-<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #808080" bgcolor="#000000">
+<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #333333; ; color:#FFFFFF" bgcolor="#000000">
 	<tr>
 		<td width="200" height="200" style="padding:1px; border:1px solid #000000; " dir="rtl" bgcolor="#000000">
 		<p align="center">
@@ -17,7 +17,7 @@
 		متولد : 1359/10/08<br>
 		وضعيت تأهل : متأهل<br>
 		وضعيت سربازي : خريد خدمت<br>
-		<td width="200" align="center" style="padding:1px; border:1px solid #333333; " height="200" dir="rtl" bgcolor="#000000">
+		<td width="200" align="center" style="padding:0px; border:1px solid #666666; " height="200" dir="rtl" bgcolor="#000000">
 		<p align="center">
 		<b><font color="#FF9900">Contact me</font></b><br>
 		<a href="mailto:hamed.abd@gmail.com" style="text-decoration: none">Gmail</a><br>
@@ -41,7 +41,7 @@
 			<li>داري مدرک MOUS</li>
 		</ul>
 		</td>
-		<td rowspan="4" width="200" align="center" valign="top" style="padding:1px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
+		<td rowspan="4" width="200" align="center" valign="top" style="padding:0px; border:1px solid #666666; " dir="rtl" bgcolor="#000000">
 		<p align="center"><font color="#FF9900"><b>مهارت ها<br></b></font><br>
 		تيم سازي تخصصي<br>
 		مديريت و رهبري<br>
