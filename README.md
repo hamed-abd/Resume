@@ -9,14 +9,14 @@
 		<td width="200" height="200" style="border:0px solid #000000; padding:0px" align="center" bgcolor="#000000">
 		<p align="center">
 		<img border="0" src="Hamed.jpeg" width="200" height="200">
-		<td align="center" width="500" height="200" style="border:0px solid #000000; padding:0px; " bgcolor="#000000">
+		<td align="center" width="488" height="200" style="border:0px solid #000000; padding:0px; " bgcolor="#000000">
 		<p align="center">
 		<p><b><font color="#FF9900" size="7" face="Times New Roman">حامد عبدالرزاق</font></b></p>
 		<p><font color="#FF9900">Hamed.abd@Gmail.com</font></p>
 		متولد : 1359/10/08<br>
 		وضعيت تأهل : متأهل<br>
 		وضعيت سربازي : خريد خدمت<br>
-		<td width="200" align="left" style="padding:0px; border:1px solid #222222; text-align:center; direction:ltr; margin-left:0" height="200" bgcolor="#000000">
+		<td width="200" align="left" style="padding:0px; border:1px solid #222222; text-align:center; direction:ltr; margin-center:0" height="200" bgcolor="#000000">
 			<p><b><font Size=2>Contact me</font></b><br><font size="2">
 			<a href="mailto:hamed.abd@gmail.com" style="text-decoration: none">Gmail</a><br>
 			<a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">Yahoo</a><br>
