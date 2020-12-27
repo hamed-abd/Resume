@@ -4,9 +4,9 @@
 </head>
 <body link="#FF9900" vlink="#FF9900" alink="#FF9900" text="#FFFFFF" bgcolor="#000000" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" style="font-family: Tahoma; color: #FFFFFF">
 <div align="center">
-<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #000000; background-color:#000000" bgcolor="#000000">
+<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #808080; background-color:#000000" bgcolor="#000000">
 	<tr>
-		<td width="200" height="200" style="border:0 solid #000000; padding:1px; " align="center" bgcolor="#000000">
+		<td width="200" height="200" style="border:0 solid #000000; padding:0px; " align="center" bgcolor="#000000">
 		<p align="center">
 		<img border="0" src="Hamed.jpeg" width="200" height="200">
 		<td align="center" width="500" height="200" style="border:1px solid #000000; padding:1px; " bgcolor="#000000">
