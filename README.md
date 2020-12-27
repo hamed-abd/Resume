@@ -17,14 +17,14 @@
 		متولد : 1359/10/08<br>
 		وضعيت تأهل : متأهل<br>
 		وضعيت سربازي : خريد خدمت<br>
-		<td width="200" align="left" style="padding:1px; border:1px solid #333333; " height="200" bgcolor="#000000">
-		<blockquote>
+		<td width="200" align="left" style="padding:1px; border:1px solid #333333; text-align:center; direction:ltr; margin-left:0" height="200" bgcolor="#000000">
+		
 			<p><b><font Size=2>Contact me</font></b><br><font size="2">
 			<a href="mailto:hamed.abd@gmail.com" style="text-decoration: none">Gmail</a><br>
 			<a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">Yahoo</a><br>
 			<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">Whatsapp<br>Telegram</a><br>
 			<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">Linkdin</a><br>Facebook<br>Skype<br>Duo<br>Zoom
-		</blockquote>
+		
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; " bgcolor="#000000">
 			<font color="#FF9900"><b>سوابق تحصيلي</b></font><dir dir="rtl" >
