@@ -4,7 +4,7 @@
 </head>
 <body link="#FF9900" vlink="#FF9900" alink="#FF9900" text="#FFFFFF">
 <div align="center">
-<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #808080" bgcolor="#000000">
+<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #808080; background-color:#000000" bgcolor="#000000">
 	<tr>
 		<td width="200" height="200" style="padding:1px; border:1px solid #333333; ">
 		<p align="center">
@@ -19,15 +19,14 @@
 		وضعيت سربازي : خريد خدمت<br>
 		<td width="200" align="center" style="padding:1px; border:1px solid #333333; " height="200">
 		<p align="center">
-		<b><font color="#FF9900">Contact me</font></b><br>
+		<b><font Size=2>Contact me</font></b><br>
+		<font size="1">
 		<a href="mailto:hamed.abd@gmail.com" style="text-decoration: none">Gmail</a><br>
-		<a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">
-		Yahoo</a><br>
-		<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">
-		Whatsapp<br>Telegram</a><br>
-		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">
-		Linkdin</a><br>	
+		<a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">Yahoo</a><br>
+		<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">Whatsapp<br>Telegram</a><br>
+		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">Linkdin</a><br>	
 		Facebook<br>Skype<br>Duo<br>Zoom
+		
 	<tr>
 		<td colspan="2" style="padding:1px; border:1px solid #333333; ">
 		<font color="#FF9900">
