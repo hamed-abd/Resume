@@ -6,31 +6,37 @@
 <div align="center">
 <table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #333333; ; color:#FFFFFF" bgcolor="#000000">
 	<tr>
-		<td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="center">
+		<td style="border:1px solid #333333; padding:20px; " bgcolor="#000000" align="center">
 		<p align="center">
 		<img border="0" src="Hamed.jpeg" width="200" height="200">
-		<td align="center" width="500" height="200" style="border:1px solid #333333; padding:2px; " dir="rtl" bgcolor="#000000">
+		<td align="center" width="500" height="200" style="border:1px solid #333333; padding:20px; " dir="rtl" bgcolor="#000000">
 		<p align="center">
 		<p><b><font color="#FF9900" size="7" face="Times New Roman">حامد 
 		عبدالرزاق</font></b></p>
-		<p><font color="#FF9900">Hamed.abd@Gmail.com</font></p>
+		<p><font color="#FFFF00">Hamed.abd@Gmail.com</font></p>
 		متولد : 1359/10/08<br>
 		وضعيت تأهل : متأهل<br>
 		وضعيت سربازي : خريد خدمت<br>
-		<a href="https://github.com/hamed-abd">GitHub Profile</a><br>
-		<td width="210" align="center" style="padding:2px; border:1px solid #333333; " height="200" dir="rtl" bgcolor="#000000">
+		<a href="https://github.com/hamed-abd"><font color="#FFFF00">GitHub Profile</font></a><font color="#FFFF00"><br>
+		</font>
+		<td width="210" align="center" style="padding:20px; border:1px solid #333333; " height="200" dir="rtl" bgcolor="#000000">
 		<p align="center">
 		<b><font color="#FF9900">Contact me</font></b><br>
-		<a href="mailto:hamed.abd@gmail.com" style="text-decoration: none">Gmail</a><br>
+		<a href="mailto:hamed.abd@gmail.com" style="text-decoration: none">
+		<font color="#FFFF00">Gmail</font></a><font color="#FFFF00"><br>
+		</font>
 		<a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">
-		Yahoo</a><br>
+		<font color="#FFFF00">Yahoo</font></a><font color="#FFFF00"><br>
+		</font>
 		<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">
-		Whatsapp<br>Telegram</a><br>
+		<font color="#FFFF00">Whatsapp<br>Telegram</font></a><font color="#FFFF00"><br>
+		</font>
 		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">
-		Linkdin</a><br>	
+		<font color="#FFFF00">Linkdin</font></a><font color="#FFFF00"><br>	
 		Facebook<br>Skype<br>Duo<br>Zoom
+	</font>
 	<tr>
-		<td colspan="2" style="padding:2px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
+		<td colspan="2" style="padding:20px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
 		<font color="#FF9900">
 		<b>سوابق تحصيلي</b></font><ul>
 			<li>فارغ التحصيل کارشناسي مديريت بازرگاني</li>
@@ -42,7 +48,7 @@
 			<li>داري مدرک MOUS</li>
 		</ul>
 		</td>
-		<td rowspan="4" width="210" align="center" valign="top" style="padding:2px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
+		<td rowspan="4" width="210" align="center" valign="top" style="padding:20px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
 		<p align="center"><font color="#FF9900"><b>مهارت ها<br></b></font><br>
 		تيم سازي تخصصي<br>
 		مديريت و رهبري<br>
@@ -60,7 +66,7 @@
 		Ulead Video Studio<br><br>
 		Can Grow
 	<tr>
-		<td colspan="2" style="padding:2px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
+		<td colspan="2" style="padding:20px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
 		<font color="#FF9900">
 		<b>سوابق شغلي</b></font><ul>
 			<li>فعاليت در زمينه طراحي و گرافيک تبليغاتي به مدت 2 سال از سال 1379</li>
@@ -76,7 +82,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2" style="padding:2px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
+		<td colspan="2" style="padding:20px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
 		<font color="#FF9900">
 		<b>توانايي هاي فني</b></font><ul>
 			<li>کارشناس ارشد پشتيباني نرم افزارهاي بيمارستاني HIS با 15 سال 
@@ -92,7 +98,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2" style="padding:2px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
+		<td colspan="2" style="padding:20px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
 		<font color="#FF9900">
 		<b>توانايي هاي فردي</b></font><ul>
 			<li>مسلط به زبان انگليسي</li>
