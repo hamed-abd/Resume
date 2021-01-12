@@ -1,40 +1,25 @@
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Language" content="fa">
-</head>
-<body bgcolor="#111111">
+<body topmargin="5" leftmargin="5" rightmargin="5" bottommargin="5" marginwidth="5" marginheight="5" style="font-family: Tahoma; font-size: 10pt; color: #EEEEEE; border: 1px solid #333333; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-color: #111111" link="#FFFF00" vlink="#FFFF00" alink="#FFFF00">
 <div align="center">
-<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #333333; ; color:#FFFFFF" bgcolor="#111111">
+<table border="1" width="900" style="border: 1px solid #333333" dir="rtl">
 	<tr>
-		<td style="border:1px solid #333333; padding:20px; " bgcolor="#111111" align="center">
+		<td width="200" style="border: 1px solid #333333; padding: 20px" bgcolor="#111111" height="200">
 		<p align="center">
-		<img border="0" src="Hamed.jpeg" width="200" height="200">
-		<td align="center" width="500" height="200" style="border:1px solid #333333; padding:20px; " dir="rtl" bgcolor="#111111">
-		<p align="center">
-		<p><b><font color="#FF9900" size="7" face="Times New Roman">حامد 
-		عبدالرزاق</font></b></p>
-		<p><font color="#FFFF00">Hamed.abd@Gmail.com</font></p>
-		متولد : 1359/10/08<br>
-		وضعيت تأهل : متأهل<br>
-		وضعيت سربازي : خريد خدمت<br>
-		<a href="https://github.com/hamed-abd"><font color="#FFFF00">GitHub Profile</font></a><font color="#FFFF00"><br>
+		<b><font size="2" color="#FF9900">Contact me</font></b><font size="2"><br>
 		</font>
-		<td width="210" align="center" style="padding:20px; border:1px solid #333333; " height="200" dir="rtl" bgcolor="#111111">
-		<p align="center">
-		<b><font color="#FF9900">Contact me</font></b><br>
 		<a href="mailto:hamed.abd@gmail.com" style="text-decoration: none">
-		<font color="#FFFF00">Gmail</font></a><font color="#FFFF00"><br>
-		</font>
-		<a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">
-		<font color="#FFFF00">Yahoo</font></a><font color="#FFFF00"><br>
-		</font>
-		<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">
-		<font color="#FFFF00">Whatsapp<br>Telegram</font></a><font color="#FFFF00"><br>
-		</font>
-		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">
-		<font color="#FFFF00">Linkdin</font></a><font color="#FFFF00"><br>	
-		Facebook<br>Skype<br>Duo<br>Zoom
-	</font>
+		<font size="2" color="#FFFF00">Gmail</font></a><font size="2"><font color="#FFFF00"><br></font><a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">
+		<font color="#FFFF00">Yahoo</font></a><font color="#FFFF00"><br></font>	<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">
+		<font color="#FFFF00">Whatsapp<br>Telegram</font></a><br>
+		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none"><font color="#FFFF00">Linkdin</font></a></font><font size="2" color="#FFFF00"><br>	
+		Facebook<br>Skype<br>Duo<br>Zoom</font>
+		<td style="border: 1px solid #333333; padding: 20px" align="left" valign="top" bgcolor="#111111" height="200">
+		<b><font face="Times New Roman" size="6">Hamed Abdolrazagh</font></b><p>
+		<a href="https://github.com/hamed-abd" style="text-decoration: none"><font color="#FFFF00">GitHub 	Profile</font></a><br>
+		<a href="https://hamed-abd.github.io/Resume" style="text-decoration: none"><font color="#FFFF00">Resume</font></a><br>
+		<a href="https://hamed-abd.github.io/Certificates" style="text-decoration: none"><font color="#FFFF00">Certificates</font></a><br>
+		<a href="https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations" style="text-decoration: none">	<font color="#FFFF00">Articles and Translations</font></a>
+		<td width="200" height="200" style="border: 1px solid #333333; padding: 0" bgcolor="#111111">
+		<p align="center"><img border="0" src="Hamed.jpeg">
 	<tr>
 		<td colspan="2" style="padding:20px; border:1px solid #333333; line-height:150%" dir="rtl" bgcolor="#111111">
 		<font color="#FF9900">
@@ -48,9 +33,29 @@
 			<li>داري مدرک MOUS</li>
 		</ul>
 		</td>
-		<td rowspan="4" width="210" align="center" valign="top" style="padding:20px; border:1px solid #333333; line-height:150%" dir="rtl" bgcolor="#111111">
-		<p align="center"><font color="#FF9900"><b>مهارت ها<br></b></font><br>
-		تيم سازي تخصصي<br>
+		<td width="200" style="border: 1px solid #333333; padding-left:0; padding-right:0; padding-top:20px; padding-bottom:0" align="center" valign="top">
+		<p align="center"><font size="2">متولد : 1359/10/08<br>
+		وضعيت تأهل : متأهل<br>
+		وضعيت سربازي : خريد خدمت</font><br>
+	<tr>
+		<td colspan="2" style="padding:20px; border:1px solid #333333; line-height:150%" dir="rtl" bgcolor="#111111">
+		<font color="#FF9900">
+		<b>سوابق شغلي</b></font><ul>
+			<li>فعاليت در زمينه طراحي و گرافيک تبليغاتي به مدت 2 سال از سال 1379</li>
+			<li>کارشناس تحليل و توسعه در اداره کل امور پشتيباني سازمان مديريت و 
+			برنامه ريزي کشور به مدت 4 سال از سال 1381</li>
+			<li>کارشناس ارشد پشتيباني ، تحليل و توسعه نرم افزارهاي حوزه بهداشت و 
+			سلامت در شرکت دانش بن&#1740;ان پ&#1740;وند داده ها از سال 1385 تا کنون</li>
+			<li>مدير روابط عمومي و عضوهيات مديره شرکت فرهن هنري شيداي عشق به مدت 
+			3 سال از سال 1394</li>
+			<li>مدير ي تي و مشاور مديرعامل در حوزه ي تي در هلدينگ همساز و شرکت 
+			گردشگري سلامت آباديس سلامت همساز از سال 1398 تا کنون</li>
+		</ul>
+		</td>
+		<td width="200" style="border: 1px solid #333333; padding: 0" rowspan="4" align="center" valign="top">
+		<p align="center"><br>
+		<font color="#FF9900" size="2"><b>مهارت ها<br></b></font><br>
+		<font size="2">تيم سازي تخصصي<br>
 		مديريت و رهبري<br>
 		تحليل نرم افزار<br>
 		طراحي فريند<br>
@@ -65,21 +70,7 @@
 		Corel Draw<br>
 		Ulead Video Studio<br><br>
 		Can Grow
-	<tr>
-		<td colspan="2" style="padding:20px; border:1px solid #333333; line-height:150%" dir="rtl" bgcolor="#111111">
-		<font color="#FF9900">
-		<b>سوابق شغلي</b></font><ul>
-			<li>فعاليت در زمينه طراحي و گرافيک تبليغاتي به مدت 2 سال از سال 1379</li>
-			<li>کارشناس تحليل و توسعه در اداره کل امور پشتيباني سازمان مديريت و 
-			برنامه ريزي کشور به مدت 4 سال از سال 1381</li>
-			<li>کارشناس ارشد پشتيباني ، تحليل و توسعه نرم افزارهاي حوزه بهداشت و 
-			سلامت در شرکت دانش بنیان پیوند داده ها از سال 1385 تا کنون</li>
-			<li>مدير روابط عمومي و عضوهيات مديره شرکت فرهن هنري شيداي عشق به مدت 
-			3 سال از سال 1394</li>
-			<li>مدير ي تي و مشاور مديرعامل در حوزه ي تي در هلدينگ همساز و شرکت 
-			گردشگري سلامت آباديس سلامت همساز از سال 1398 تا کنون</li>
-		</ul>
-		</td>
+		</font></td>
 	</tr>
 	<tr>
 		<td colspan="2" style="padding:20px; border:1px solid #333333; line-height:150%" dir="rtl" bgcolor="#111111">
