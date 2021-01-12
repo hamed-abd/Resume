@@ -10,8 +10,7 @@
 		<font size="2" color="#FFFF00">Gmail</font></a><font size="2"><font color="#FFFF00"><br></font><a href="mailto:empire_hmd@yahoo.com" style="text-decoration: none">
 		<font color="#FFFF00">Yahoo</font></a><font color="#FFFF00"><br></font>	<a title="+98-912-3377827" href="mailto:" style="text-decoration: none">
 		<font color="#FFFF00">Whatsapp<br>Telegram</font></a><br>
-		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none"><font color="#FFFF00">Linkdin</font></a></font><font size="2" color="#FFFF00"><br>	
-		Facebook<br>Skype<br>Duo<br>Zoom</font>
+		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none"><font color="#FFFF00">Linkdin</font></a></font><font size="2" color="#FFFF00">
 		<td style="border: 1px solid #333333; padding: 20px" align="left" valign="top" bgcolor="#111111" height="200">
 		<b><font face="Times New Roman" size="6">Hamed Abdolrazagh</font></b><p>
 		<a href="https://github.com/hamed-abd" style="text-decoration: none"><font color="#FFFF00">GitHub 	Profile</font></a><br>
