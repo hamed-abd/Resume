@@ -2,7 +2,7 @@
 <div align="center">
 <table border="1" width="900" style="border: 1px solid #333333" dir="rtl">
 	<tr>
-		<td width="200" style="border: 1px solid #333333; padding: 20px" bgcolor="#111111" height="200">
+		<td width="200" style="border: 1px solid #333333; padding: 20px; text-indent:0; line-height:100%" bgcolor="#111111" height="200">
 		<p align="center">
 		<b><font size="2" color="#FF9900">Contact me</font></b><font size="2"><br>
 		</font>
@@ -33,7 +33,7 @@
 			<li>داري مدرک MOUS</li>
 		</ul>
 		</td>
-		<td width="200" style="border: 1px solid #333333; padding-left:0; padding-right:0; padding-top:20px; padding-bottom:0" align="center" valign="top">
+		<td width="200" style="border: 1px solid #333333; padding-left:0; padding-right:0; padding-top:20px; padding-bottom:0" align="center" valign="top" bgcolor="#111111">
 		<p align="center"><font size="2">متولد : 1359/10/08<br>
 		وضعيت تأهل : متأهل<br>
 		وضعيت سربازي : خريد خدمت</font><br>
@@ -52,7 +52,7 @@
 			گردشگري سلامت آباديس سلامت همساز از سال 1398 تا کنون</li>
 		</ul>
 		</td>
-		<td width="200" style="border: 1px solid #333333; padding: 0" rowspan="4" align="center" valign="top">
+		<td width="200" style="border: 1px solid #333333; padding: 0" rowspan="4" align="center" valign="top" bgcolor="#111111">
 		<p align="center"><br>
 		<font color="#FF9900" size="2"><b>مهارت ها<br></b></font><br>
 		<font size="2">تيم سازي تخصصي<br>
